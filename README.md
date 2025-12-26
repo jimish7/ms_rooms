@@ -18,12 +18,13 @@ MSRooms is a lightweight, responsive, and open-source meeting room booking appli
 -   **Web Server**: Apache, Nginx, or IIS.
 -   **PHP**: Version 7.4 or higher (with `curl` and `json` extensions).
 -   **Microsoft 365 Tenant**: Admin access to register an application in Azure AD.
+-   **It is recommanded to use this application strictly in intranet environment.**
 
 ## Installation
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/msrooms.git
+    git clone https://github.com/jimish7/msrooms.git
     cd msrooms
     ```
 
