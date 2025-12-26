@@ -141,7 +141,7 @@ This project is PWA-ready.
 
 ## Folder Structure
 ```
-aptrooms/
+msrooms/
 ├── api/                  # Backend PHP logic
 │   ├── graph.php         # Microsoft Graph API wrapper
 │   ├── index.php         # API entry point & routing
