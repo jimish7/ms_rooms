@@ -34,7 +34,7 @@ MSRooms is a lightweight, responsive, and open-source meeting room booking appli
 
 3.  **Azure AD Setup**
     -   Go to [Azure Portal](https://portal.azure.com) > **App registrations**.
-    -   New Registration > Name: "AptRooms" > Supported account types: "Accounts in this organizational directory only".
+    -   New Registration > Name: "MSRooms" > Supported account types: "Accounts in this organizational directory only".
     -   **Certificates & secrets**: Create a new Client Secret. Copy the Value.
     -   **API Permissions**: Add `Microsoft Graph` > `Application permissions`:
         -   `Calendars.ReadWrite` (To read and book rooms)
