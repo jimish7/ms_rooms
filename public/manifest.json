@@ -1,6 +1,6 @@
 {
   "name": "Meeting Rooms",
-  "short_name": "AptRooms",
+  "short_name": "MsRooms",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#0b0f14",
