@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Headquarters",
+    "floors": [
+      {
+        "name": "1st Floor",
+        "rooms": [
+          { "alias": "Conference Room A", "email": "conf-room-a@yourdomain.com","capacity": 10 }
+        ]
+      },
+      {
+        "name": "2nd Floor",
+        "rooms": [
+          { "alias": "Board Room", "email": "board-room@yourdomain.com","capacity": 20 }
+        ]
+      }
+    ]
+  }
+]
